@@ -2,7 +2,7 @@
 
 Project for ANU ENGN4528/6528 (Computer Vision), Semester 1. May 21, 2018.
 
-See the project report [here](Panoramic Photo Generation.pdf).
+See the project report [here](Panoramic-Photo-Generation.pdf).
 
 ### Approach
 
