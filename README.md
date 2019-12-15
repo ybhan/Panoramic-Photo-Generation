@@ -4,6 +4,8 @@ Project for ANU ENGN4528/6528 (Computer Vision), Semester 1. May 21, 2018.
 
 See the project report [here](Panoramic-Photo-Generation.pdf).
 
+Besides, there are 4 mini projects in this course which can be found [here](https://github.com/ybhan/Computer-Vision-Projects).
+
 ### Approach
 
 - Key frame selection
